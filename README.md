@@ -4,4 +4,3 @@ Social network website
 
 # Objects : INFO
 Objects is a Social network website , A  Place   for   Objects   And   About   Gathering   Things
-<img src="photo.jpg.png"/>
